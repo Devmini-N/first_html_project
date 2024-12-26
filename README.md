@@ -14,3 +14,12 @@ removed old cv. Updates html and css files to create basic structure of dashboar
 18/12/24
 (very long break)
 creating a functional search bar with css and html 
+ref: https://www.youtube.com/watch?v=f6ocDCkCmhM
+
+26/12/2024
+fixed the display of the buttons to be more curved
+looked into improving the layout of the top section of the website
+useful links:
+https://www.w3schools.com/css/css3_buttons.asp
+https://www.w3schools.com/css/css_grid_container.asp
+https://www.w3schools.com/css/css_grid_item.asp 
